@@ -1,0 +1,23 @@
+Configurações automaticas:
+
+npm init -y(cmd)
+
+Instalação dos plugins npm:
+
+ffmpeg-static
+
+@discordjs/opus
+
+ytdl-core
+
+simple-youtube-api
+
+Colocar o bot em um servidor:
+
+https://discord.com/oauth2/authorize?client_id=********************&scope=bot&permissions=8
+
+Id do bot:
+723058456374018099
+
+Token do bot:
+NzIzMDU4NDU2Mzc0MDE4MDk5.Xutr5A.bPYDFyy6UR8Z-YPy8ZylARrXWEI
